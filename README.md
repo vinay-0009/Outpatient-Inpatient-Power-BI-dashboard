@@ -52,7 +52,7 @@
   <h2>🚀 How to Use</h2>
   <ol>
     <li>Clone this repository:
-      <pre><code>git clone https://github.com/yourusername/outpatient-inpatient-powerbi-dashboard.git</code></pre>
+      <pre><code>git clone https://github.com/vinay-0009/Outpatient-Inpatient-Power-BI-dashboard</code></pre>
     </li>
     <li>Open the <b>.pbix</b> file in Power BI Desktop.</li>
     <li>Connect to your dataset or use the provided sample data.</li>
@@ -77,8 +77,8 @@
   <p>
     Created by <b>Your Name</b> • Reach me at <a href="mailto:your.email@example.com">your.email@example.com</a>  
     <br>
-    🌐 <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a> | 
-    <a href="https://github.com/yourusername">GitHub</a>
+    🌐 <a href="https://www.linkedin.com/in/vinay-parashar-955975300/">LinkedIn</a> | 
+    <a href="https://github.com/vinay-0009/Outpatient-Inpatient-Power-BI-dashboard">GitHub</a>
   </p>
 
   <hr>
