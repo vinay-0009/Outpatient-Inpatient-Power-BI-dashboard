@@ -75,7 +75,7 @@
 
   <h2>📧 Contact</h2>
   <p>
-    Created by <b>Your Name</b> • Reach me at <a href="mailto:your.email@example.com">your.email@example.com</a>  
+    Created by <b>Your Name</b> • Reach me at <a href="mailto:your.parasharvinay199@gmail.com">your.email@example.com</a>  
     <br>
     🌐 <a href="https://www.linkedin.com/in/vinay-parashar-955975300/">LinkedIn</a> | 
     <a href="https://github.com/vinay-0009/Outpatient-Inpatient-Power-BI-dashboard">GitHub</a>
